@@ -1,4 +1,3 @@
-import Prism from 'prismjs';
 import "../styles/prism.css";
 
 export default function Code(){

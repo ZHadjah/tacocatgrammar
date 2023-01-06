@@ -66,7 +66,7 @@ function Solve() {
       </div>
 
       <div className="row justify-content-center text-center pt-lg-5">
-        <h3 id="output"></h3>
+        <h3 id="output"> </h3>
       </div>
     </div>
   );

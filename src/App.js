@@ -5,7 +5,6 @@ import Code from "./pages/code";
 import Solve from "./pages/solve";
 import { Route, Routes } from "react-router-dom";
 import "./styles/styles.css";
-import Nav from "react-bootstrap/Nav";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 
